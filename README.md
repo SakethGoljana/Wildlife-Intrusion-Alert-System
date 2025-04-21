@@ -163,8 +163,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or support, reach out via:
-- **Email**: [your-email@example.com] (replace with actual contact if applicable).
-- **GitHub Issues**: [Link to repository issues] (if hosted on GitHub).
+- **Email**: [sakethgoljana098@gmail.com] 
+- **GitHub Issues**: [https://github.com/SakethGoljana/Wildlife-Intrusion-Alert-System/tree/main] 
 
 ---
 
